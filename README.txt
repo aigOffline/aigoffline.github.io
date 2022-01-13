@@ -6,10 +6,9 @@ Scrollex). A *slight* departure from all the one-pagers I've been doing lately, 
 that fulfills a few user requests and makes use of some new techniques I've been wanting
 to try out. Enjoy it :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Images were taken from Unsplash.
 
-(* = not included)
+
 
 
 
